@@ -28,4 +28,3 @@ Enter length of first side: 3
 Enter length of second side: 4
 Enter length of third side: 5
 Yes
-(base) uschiemaun@Yuvrajs-MacBook-Air ~ % 
