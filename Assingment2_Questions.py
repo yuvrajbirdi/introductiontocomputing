@@ -77,16 +77,14 @@ ans_e_2=b>>4
 print('a would become %d and b would become %d' %(ans_e_1,ans_e_2))
 
 print('Answer 4')
-#To find the largest of three numbers using if-else statements
+#To find the largest of three numbers using list sorting
 a=int(input('Enter first number: '))
 b=int(input('Enter second number: '))
 c=int(input('Enter third number: '))
-if a>=b and a>=c:
-    print(str(a),' is the largest number.')
-elif b>=a and b>=c:
-    print(str(b),' is the largest number.')
-elif c>=a and c>=b:
-    print(str(c),' is the largest number.')
+numbers=[a,b,c]
+numbers.sort(reverse=True)
+ans_4=numbers[0]
+print(ans_4)
 
 print('Answer 5')
 #To check whether 'name' is present in the entered string
