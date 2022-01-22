@@ -84,7 +84,7 @@ c=int(input('Enter third number: '))
 numbers=[a,b,c]
 numbers.sort(reverse=True)
 ans_4=numbers[0]
-print(ans_4)
+print(ans_4, ' is the largest number.')
 
 print('Answer 5')
 #To check whether 'name' is present in the entered string
