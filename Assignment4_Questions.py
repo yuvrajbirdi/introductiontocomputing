@@ -97,7 +97,7 @@ print(t_)
 
 print('<D> Converting to set datatype:',set(t_))
 print('<E> Making the set immutable:',frozenset(set(t_)))
-print('<E> Maximum value from set is:',max(frozenset(set(t_))), 'and its hash value is:',hash(max(frozenset(set(t_)))))
+print('<F> Maximum value from set is:',max(frozenset(set(t_))), 'and its hash value is:',hash(max(frozenset(set(t_)))))
 
 #Question 4
 print('Question 4')
