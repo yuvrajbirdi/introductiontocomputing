@@ -30,7 +30,7 @@ Quotient and remainder for entered value is: (2, 1)
 <C> Adding (4,5,6) to it: (2, 1, 4, 5, 6) and after filtering values > 4: (2, 1, 4)
 <D> Converting to set datatype: {1, 2, 4}
 <E> Making the set immutable: frozenset({1, 2, 4})
-<E> Maximum value from set is: 4 and its hash value is: 4
+<F> Maximum value from set is: 4 and its hash value is: 4
 Question 4
 Enter your name:Yuvraj Singh Birdi
 Enter your SID:21103049
